@@ -1,0 +1,145 @@
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+body {
+    margin: 0; 
+    min-height: 100vh; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    background-color: white; 
+}
+.head{
+    height: 100px;
+    width: 1300px;
+    background-color: rgb(124, 230, 230);
+}
+.outerclass{
+    height: 1000px;
+    width: 1300px;
+    display:flex;
+    flex-direction: row;
+    gap: 20px;
+    background-color: rgb(206, 239, 239);
+    
+    
+}
+.leftBox{
+    height: 955px;
+    width: 600px;
+    border: 2px solid red;
+    
+}
+.middleBox{
+    height: 1000px;
+    width: 400px;
+    display:flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(124, 230, 230);
+
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+
+.box1{
+    height:120px;
+    width: 400px;
+    border:2px solid rgb(169, 169, 199);
+    text-align: center;
+    background-color: rgb(206, 239, 239);
+}
+.second{
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+}
+.box2{
+    height:100px;
+    width: 122.5px;
+    border:2px solid rgb(169, 169, 199);
+    background-color: rgb(206, 239, 239);
+    
+}
+.third {
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+
+.fourth{
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+}
+.box4{
+    height:400px;
+    width: 200px;
+    border:2px solid rgb(169, 169, 199);
+    text-align: center;
+    background-color: rgb(206, 239, 239);
+}
+.box5{
+    height:440px;
+    width: 140px;
+    border:2px solid rgb(169, 169, 199);
+    background-color: rgb(206, 239, 239);
+}
+.rightBox{
+    height: 996px;
+    width: 400px;
+    border:2px solid rgb(169, 169, 199);
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(124, 230, 230);
+    
+}
+
+.box7{
+    height:120px;
+    width: 250px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    
+}
+.box8{
+    height:130px;
+    width: 120.5px;
+    border:2px solid rgb(169, 169, 199);
+    align-items: center;
+}
+.box9{
+    height:455px;
+    width: 250px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border:2px solid rgb(169, 169, 199);
+    background-color: rgb(206, 239, 239);
+    
+}
+.dead{
+    height: 50px;
+    width: 1300px;
+    background-color: rgb(124, 230, 230);
+}
+.book-results{
+    height:420px;
+    width: 400px;
+    border:1px solid rgb(169, 169, 199);
+    text-align: center;
+    background-color: rgb(206, 239, 239);
+}
